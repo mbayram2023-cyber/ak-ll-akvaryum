@@ -1,5 +1,5 @@
 {
   "version": 1.1,
-  "url": "https://github.com/KULLANICI_ADI/akvaryum-ota/releases/download/v1.1/firmware.bin",
-  "notes": "Sıcaklık alarmı eklendi ve yemleme motoru stabilitesi artırıldı."
+  "url": "https://github.com/mbayram2023-cyber/ak-ll-akvaryum/releases/download/v1.1/firmware.bin",
+  "notes": "Sıcaklık takibi optimize edildi ve sistem kararlılığı artırıldı."
 }
